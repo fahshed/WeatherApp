@@ -1,4 +1,4 @@
-# WeatherApp
+# Weather App
 Learning Android Development
 
 To run the project:
